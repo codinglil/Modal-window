@@ -30,6 +30,7 @@ body {
   background-color: #fff;
   color: #444;
   cursor: pointer;
+  border-radius: 25px;
 }
 
 .close-modal {
